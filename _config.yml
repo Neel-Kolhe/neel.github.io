@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Science is a Verb"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "neel-kolhe/neel-kolhe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Neel Kolhe"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Paris Observatory"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kolhe.sci@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
