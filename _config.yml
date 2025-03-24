@@ -268,7 +268,7 @@ defaults:
   # _Other_Writings
   - scope:
       path: ""
-      type: publications
+      type: Other_Writings
     values:
       layout: single
       author_profile: true
